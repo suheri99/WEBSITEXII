@@ -8,6 +8,11 @@
 }
 
 body {
+    background-color: black;
+    color: white; /* Menyesuaikan warna teks agar terlihat dengan latar belakang hitam */
+  }
+  
+body {
   color: #fff;
 }
 
